@@ -10,5 +10,6 @@ public class Gitfile {
         System.out.println("GIT file--update");
         System.out.println("GIT file--update-dev");
         System.out.println("GIT file--主干添加");
+        System.out.println("GIT file--github");
     }
 }
