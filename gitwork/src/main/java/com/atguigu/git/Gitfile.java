@@ -7,5 +7,6 @@ package com.atguigu.git;
 public class Gitfile {
     public static void main(String[] args) {
         System.out.println("GIT file");
+        System.out.println("GIT file--update");
     }
 }
